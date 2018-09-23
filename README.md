@@ -9,8 +9,7 @@ Offer a standalone wallet in conjunction with rust-bitcoin-spv.
 I plan to add TREZOR and Ledger support.
 
 ## Status
-This is work in progess, far from production quality. 
-It aims to serve parallel development of an SPV client and a Lightning Node.
+BIP32 and BIP39 support ready
 
 ## Contributions and Vision
 The goal is a library for key derivation, storage, serialization and account management.
