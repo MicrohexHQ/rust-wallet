@@ -7,4 +7,3 @@ wallets.
 
 It supports legacy P2PKH, transitional P2SHWPKH and native segwit P2WPKH for single key signatures
 and native P2WSH for arbitrary sripts.
-
